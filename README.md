@@ -1,5 +1,4 @@
-# 💱 Treasury FX Hedging Case Study
-
+# 💱 Treasury FX Hedging 
 ## 📌 Overview
 This project simulates foreign exchange exposure for a Singapore company with expenses in JPY. It evaluates hedge effectiveness using:
 
